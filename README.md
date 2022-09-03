@@ -1,6 +1,6 @@
-A simple workflow to generate reverse shell payload.
+A simple Alfred workflow to generate reverse shell payload.
 
-Requirement: Python3
+Requirements: Python3 and Alfred powerpack.
 
 Downlaod the [generator.alfredworkflow](https://github.com/fade03/reverse-shell-workflow/blob/master/generator.alfredworkflow) file and import it to Alfred.
 
