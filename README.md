@@ -1,4 +1,4 @@
-A simple Alfred workflow to generate reverse shell payload.
+An Alfred workflow to generate reverse shell payload.
 
 Requirements: Python3 and Alfred powerpack.
 
